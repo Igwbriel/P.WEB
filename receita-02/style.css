@@ -1,0 +1,47 @@
+.versos {
+    border: solid;
+    max-width: max-content;
+    border-color: rosybrown;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+p.verso{
+    color: blue;
+ }
+
+ p.mote {
+    color: red;
+ }
+
+ .container {
+    display: flex;
+    align-items: center; 
+}
+
+.container img{
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    margin: 1em;
+}
+
+td {
+    background-color: whitesmoke;
+    padding: 5px;
+}
+
+table {
+    padding: 3px;
+    background-color: whitesmoke;
+    border-color:tomato;
+    margin: 1rem;
+}
+
+caption {
+    margin-bottom: 1rem;
+}

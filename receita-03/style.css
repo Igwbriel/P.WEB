@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+#beerDiv {
+    opacity: 0;
+    transition: opacity 0.5s ease-in;
+    display: flex;
+    margin: auto;
+    width: 10em;
+    height: 15em;
+  }
+  
+  #buttonloader {
+    display: flex;
+    margin: auto;
+    width: 150px;
+    height: 50px;
+    background-color: violet;
+    color: black;
+    border-radius: 1px;
+    cursor: pointer;
+  }
+
+  #buttonloader:hover {
+    background-color: black;
+    color: violet;
+  }
